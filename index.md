@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="main.css" />
+
 # Welcome to my portfolio
 
 ## Resumed

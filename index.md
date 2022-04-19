@@ -13,7 +13,7 @@
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQZ0qP7vropt_Op00Edea7slsHrTj3cgJ09_4QXDnKQP4SF-6IGHeJuEnmyJsESWUFIOsdlVJ_V_4d/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Hackaday Prize 2020 Proposal
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK0OOAL0YwyUHh1dAyWfYtHcdbf-oXfn64LdJJAHDO2vwFeqRIP8qx9TmbL24bGJTPN60gO3NRYprH/embed?start=false&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK0OOAL0YwyUHh1dAyWfYtHcdbf-oXfn64LdJJAHDO2vwFeqRIP8qx9TmbL24bGJTPN60gO3NRYprH/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Hackaday Prize 2020 Design research report
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRL2i8bV1QarO9iuC3Jm8ep6SqtexspYEx9-dTpIEpqKNvbfW3AhiO4AnVkTSrBw6-3ZdhlT0g0lZWR/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

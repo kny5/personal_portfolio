@@ -16,7 +16,7 @@
 
 ## Fab Acdemy 2021 Final project MilQ
 
-![Milq](http://fabacademy.org/2021/labs/agrilab/students/antonio-anaya/presentation.png)
+<img src="http://fabacademy.org/2021/labs/agrilab/students/antonio-anaya/presentation.png" alt="MilQ" width="100%"/>
 
 
 

@@ -14,7 +14,7 @@
 
 
 
-## Fab Acdemy 2021 Final project MilQ
+## Fab Academy 2021 Final project MilQ
 
 <img src="http://fabacademy.org/2021/labs/agrilab/students/antonio-anaya/presentation.png" alt="MilQ" width="100%"/>
 
